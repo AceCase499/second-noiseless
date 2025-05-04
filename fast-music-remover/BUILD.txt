@@ -1,0 +1,10 @@
+create a build for this clone of the project if you haven't already
+>cd fast-music-remover
+>cd MediaProcessor
+>mkdir build
+>cd build
+>cmake ..
+>make
+
+>pip install -r requirements.txt
+^^VS code will ask to create a new virtual environment for the project if there isn't one already
